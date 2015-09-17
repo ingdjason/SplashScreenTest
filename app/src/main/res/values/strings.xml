@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SplashScreen</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">ABOUT</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="title_activity_about">AboutActivity</string>
+</resources>
